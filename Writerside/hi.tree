@@ -8,7 +8,29 @@
 
     <toc-element topic="Default-topic.md"/>
     <toc-element topic="Reference.md">
-        <toc-element topic="Tutorial.md"/>
+        <toc-element topic="Hardware.md"/>
+        <toc-element topic="Embedded.md">
+            <toc-element topic="Process1Documentation.md"/>
+            <toc-element topic="Technical-Documentation.md">
+                <toc-element topic="How-to-set-up-the-wifi.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element topic="Waste-Rec.md">
+            <toc-element topic="Technical-Documentation1.md">
+                <toc-element topic="How-to-build-a-waste-watcher.md"/>
+            </toc-element>
+            <toc-element topic="Process-Documentation.md"/>
+        </toc-element>
+        <toc-element topic="Tutorial.md">
+            <toc-element topic="Technical-Documentation4.md">
+                <toc-element topic="Set-up-an-AWS-Instance.md"/>
+            </toc-element>
+            <toc-element topic="Process1Dsdfocumentation.md"/>
+        </toc-element>
         <toc-element topic="How-to.md"/>
+    </toc-element>
+    <toc-element topic="ZotBins-Leads-Documentation.topic">
+        <toc-element topic="How-to-be-a-team-lead.md"/>
+        <toc-element topic="Leads-Reference.topic"/>
     </toc-element>
 </instance-profile>

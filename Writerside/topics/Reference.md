@@ -1,4 +1,4 @@
-# Reference
+# ZotBins Team Documentation
 
 A reference article is information-oriented.
 It provides a structured description of a product:
